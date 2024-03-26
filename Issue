@@ -1,7 +1,7 @@
 public class AddNumbers {
     public static void main(String[] args) {
-        int num1 = 5;
-        int num2 = 10;
+        int num1 = 24882670;
+        int num2 = 33;
         
         int sum = num1 + num2;
         
